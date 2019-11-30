@@ -1,4 +1,4 @@
-## Sidenav (styles only)
+## `jag`-sidenav (styles & static page examples)
 
 Sidenav with **scalable design** principles which helps enterprise apps to bring into one suite
 
