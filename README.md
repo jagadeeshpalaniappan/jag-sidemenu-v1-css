@@ -1,8 +1,9 @@
-## `jag`-sidenav (styles & static page examples)
+# `jag`- Sidenav Design 
 
-Sidenav with **scalable design** principles which helps enterprise apps to bring into one suite
 
-Code: [Sandbox](https://codesandbox.io/s/github/jagadeeshpalaniappan/jag-sidenav-v1) 
+Created Sidenav keeping **scalable design** principles in mind. It helps many enterprise apps to bring into one suite
+
+Code: [Sandbox](https://codesandbox.io/s/github/jagadeeshpalaniappan/jag-sidenav-v1) (styles & static page examples)
 
 
 ## Design Implementation:
